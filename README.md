@@ -1,30 +1,27 @@
-# :robot: 3.5.0 - Modifying Resistance
+# :robot: Sustainable Development Project
 
 ## 🤓 Overview and learning outcomes 
 
-We will work with differing levels of resistance in this lab.  Both series and parallel resistor circuts will be constructed in order to understand how resisotrs function within an electrical system. 🚀
+This repository has been made as a location to store all of your materials for your project.  You will keep all of your files, images and documents organized here. 🚀
 
-## Circuit Setup
+## Requirements
 
-Import the file in this repository titled, "sample_circuits.txt" into the Circuit Simulator App.  These circuits are not closed.  Add the approprate grounds to all three of the circuits to make them work (the first circuit needs two grounds).  Now build these circuits on your breadboard as practice.
+All of your files need to be kept here as you work on this project.  In addition, you will create a markdown file named, "Overview.md" which describes your idea in detail.
 
-Compare the four different circuits (Remember, the first one is essentially two circuits.)  How would you characterize the relationship between resistance and current?  Be specific by using the current levels in your response.  You may attain these using the app and you may also do this by measuring current with your multimeter.  What would be the reasons for using resistors in series or resistors in parallel?
+As you complete requirements, copy your work here.  Make the following files in this repository:
 
-## 💻 Terms to know
+- Overview.md
+- concept_statement.md
+- sustainable_goals_solution.md
+- project_diagram(use an appropriate file type for this)
+- annotated_bibliography.md
 
-- Resistance
-- Series Resistor Circuits
-- Parallel Resistor Circuits
+## 📝 Example Overview File
 
-## 📝 Next steps
-
-1. Create a markdown file titled, "observations.md".
-2. Write your observations from the "Circuit Setup" section above. 
-3. Iclude a photo of your circuit prototype that you built.
-4. Create a new file in this repository titiled, "fixed_sample_circuits.txt" which is exported from the Circuit Simulator App.
+See this example for guidance as to how to make yours.
 
 ## 📚  Resources 
 
-[Circuit Simulator](https://thumbsdb.herokuapp.com/circuit/)
+[United Nations Sustainable Development Goals](https://sdgs.un.org/goals)
 
-[Series and Parallel Circuits](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
+
