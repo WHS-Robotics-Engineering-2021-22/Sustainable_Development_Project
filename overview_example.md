@@ -14,6 +14,15 @@ I worked for about a month on my idea and from my research on solar power, I was
 
 The biggest challeng of this project has been to figure out how much electricity is needed to power the iron.  Fortunately the solar cell that is required to charge the batteries in the cart is also large enough to serve as a shade for the iron vendor.  The cart is a one time expense so, while the vendor will need to pay more up front, it will save them on the expense of buying charcoal.
 
+# UN Sustainable Development Goals Addressed
+
+This project addresses the following UN Sustainable Development Goals:
+
+- Affordable and Clean Energy
+- Decent Work and Economic Growth
+- Responsible Consumption and Production
+- Climate Action
+
 # Next Steps
 
 My next step will be to build a prototype next sememster in my Robotics Engineering class and hopefully be able to test the cart out in my neighborhood.  I am going to use my brother's old bike, an iron we already have at home and some scrap lumber that my parents have in the garage to save money.  My big expense will be the solar panel, charge controller, inverter and a battery.
