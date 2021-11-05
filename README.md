@@ -16,6 +16,8 @@ As you complete requirements, copy your work here.  Make the following files in 
 - project_diagram(use an appropriate file type for this)
 - annotated_bibliography.md
 
+**At the conclusion of your project you will delete the "Overview_Example.md" file and replace this README file with the text from your "Overview.md" file.**
+
 ## 📝 Example Overview File
 
 See this example for guidance as to how to make yours.
